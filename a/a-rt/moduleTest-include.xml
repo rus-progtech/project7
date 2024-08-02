@@ -1,0 +1,4 @@
+<types>
+  <!--test.com.ptc.a-->
+  <type class="test.com.ptc.a.BMyFooTest" name="MyFooTest"/>
+</types>

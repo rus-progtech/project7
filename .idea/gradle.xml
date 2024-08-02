@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="#JAVA_HOME" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/a/a-rt" />
+            <option value="$PROJECT_DIR$/a/a-wb" />
+            <option value="$PROJECT_DIR$/b/b-rt" />
+            <option value="$PROJECT_DIR$/b/b-wb" />
+            <option value="$PROJECT_DIR$/c/c-rt" />
+            <option value="$PROJECT_DIR$/c/c-wb" />
+            <option value="$PROJECT_DIR$/d/d-rt" />
+            <option value="$PROJECT_DIR$/d/d-wb" />
+            <option value="$PROJECT_DIR$/e/e-rt" />
+            <option value="$PROJECT_DIR$/e/e-wb" />
+            <option value="$PROJECT_DIR$/j1/j1-rt" />
+            <option value="$PROJECT_DIR$/j1/j1-wb" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

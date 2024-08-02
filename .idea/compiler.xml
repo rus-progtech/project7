@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Gradle Imported" enabled="true">
+        <outputRelativeToContentRoot value="true" />
+        <option name="niagara.module.root" value="C:\Niagara\dev\project7\a\a-rt" />
+        <option name="niagara.test.roots" value="srcTest=java" />
+        <processorPath useClasspath="false">
+          <entry name="$PROJECT_DIR$/../../Niagara-4.13.0.186/bin/ext/nre.jar" />
+        </processorPath>
+        <module name="myNewModule.a-rt.moduleTest" />
+        <module name="myNewModule.a-rt.main" />
+      </profile>
+      <profile name="Gradle Imported" enabled="true">
+        <outputRelativeToContentRoot value="true" />
+        <option name="niagara.module.root" value="C:\Niagara\dev\project7\a\a-wb" />
+        <option name="niagara.test.roots" value="srcTest=java" />
+        <processorPath useClasspath="false">
+          <entry name="$PROJECT_DIR$/../../Niagara-4.13.0.186/bin/ext/nre.jar" />
+        </processorPath>
+        <module name="myNewModule.a-wb.moduleTest" />
+        <module name="myNewModule.a-wb.main" />
+      </profile>
+      <profile name="Gradle Imported" enabled="true">
+        <outputRelativeToContentRoot value="true" />
+        <option name="niagara.module.root" value="C:\Niagara\dev\project7\b\b-rt" />
+        <option name="niagara.test.roots" value="srcTest=java" />
+        <processorPath useClasspath="false">
+          <entry name="$PROJECT_DIR$/../../Niagara-4.13.0.186/bin/ext/nre.jar" />
+        </processorPath>
+        <module name="myNewModule.b-rt.moduleTest" />
+        <module name="myNewModule.b-rt.main" />
+      </profile>
+      <profile name="Gradle Imported" enabled="true">
+        <outputRelativeToContentRoot value="true" />
+        <option name="niagara.module.root" value="C:\Niagara\dev\project7\b\b-wb" />
+        <option name="niagara.test.roots" value="srcTest=java" />
+        <processorPath useClasspath="false">
+          <entry name="$PROJECT_DIR$/../../Niagara-4.13.0.186/bin/ext/nre.jar" />
+        </processorPath>
+        <module name="myNewModule.b-wb.main" />
+        <module name="myNewModule.b-wb.moduleTest" />
+      </profile>
+      <profile name="Gradle Imported" enabled="true">
+        <outputRelativeToContentRoot value="true" />
+        <option name="niagara.module.root" value="C:\Niagara\dev\project7\j1\j1-rt" />
+        <option name="niagara.test.roots" value="srcTest=java" />
+        <processorPath useClasspath="false">
+          <entry name="$PROJECT_DIR$/../../Niagara-4.13.0.186/bin/ext/nre.jar" />
+        </processorPath>
+        <module name="myNewModule.j1-rt.main" />
+        <module name="myNewModule.j1-rt.moduleTest" />
+      </profile>
+      <profile name="Gradle Imported" enabled="true">
+        <outputRelativeToContentRoot value="true" />
+        <option name="niagara.module.root" value="C:\Niagara\dev\project7\j1\j1-wb" />
+        <option name="niagara.test.roots" value="srcTest=java" />
+        <processorPath useClasspath="false">
+          <entry name="$PROJECT_DIR$/../../Niagara-4.13.0.186/bin/ext/nre.jar" />
+        </processorPath>
+        <module name="myNewModule.j1-wb.main" />
+        <module name="myNewModule.j1-wb.moduleTest" />
+      </profile>
+      <profile name="Gradle Imported" enabled="true">
+        <outputRelativeToContentRoot value="true" />
+        <option name="niagara.module.root" value="C:\Niagara\dev\project7\c\c-rt" />
+        <option name="niagara.test.roots" value="srcTest=java" />
+        <processorPath useClasspath="false">
+          <entry name="$PROJECT_DIR$/../../Niagara-4.13.0.186/bin/ext/nre.jar" />
+        </processorPath>
+        <module name="myNewModule.c-rt.moduleTest" />
+        <module name="myNewModule.c-rt.main" />
+      </profile>
+      <profile name="Gradle Imported" enabled="true">
+        <outputRelativeToContentRoot value="true" />
+        <option name="niagara.module.root" value="C:\Niagara\dev\project7\c\c-wb" />
+        <option name="niagara.test.roots" value="srcTest=java" />
+        <processorPath useClasspath="false">
+          <entry name="$PROJECT_DIR$/../../Niagara-4.13.0.186/bin/ext/nre.jar" />
+        </processorPath>
+        <module name="myNewModule.c-wb.moduleTest" />
+        <module name="myNewModule.c-wb.main" />
+      </profile>
+      <profile name="Gradle Imported" enabled="true">
+        <outputRelativeToContentRoot value="true" />
+        <option name="niagara.module.root" value="C:\Niagara\dev\project7\d\d-rt" />
+        <option name="niagara.test.roots" value="srcTest=java" />
+        <processorPath useClasspath="false">
+          <entry name="$PROJECT_DIR$/../../Niagara-4.13.0.186/bin/ext/nre.jar" />
+        </processorPath>
+        <module name="myNewModule.d-rt.moduleTest" />
+        <module name="myNewModule.d-rt.main" />
+      </profile>
+      <profile name="Gradle Imported" enabled="true">
+        <outputRelativeToContentRoot value="true" />
+        <option name="niagara.module.root" value="C:\Niagara\dev\project7\d\d-wb" />
+        <option name="niagara.test.roots" value="srcTest=java" />
+        <processorPath useClasspath="false">
+          <entry name="$PROJECT_DIR$/../../Niagara-4.13.0.186/bin/ext/nre.jar" />
+        </processorPath>
+        <module name="myNewModule.d-wb.main" />
+        <module name="myNewModule.d-wb.moduleTest" />
+      </profile>
+      <profile name="Gradle Imported" enabled="true">
+        <outputRelativeToContentRoot value="true" />
+        <option name="niagara.module.root" value="C:\Niagara\dev\project7\e\e-rt" />
+        <option name="niagara.test.roots" value="srcTest=java" />
+        <processorPath useClasspath="false">
+          <entry name="$PROJECT_DIR$/../../Niagara-4.13.0.186/bin/ext/nre.jar" />
+        </processorPath>
+        <module name="myNewModule.e-rt.main" />
+        <module name="myNewModule.e-rt.moduleTest" />
+      </profile>
+      <profile name="Gradle Imported" enabled="true">
+        <outputRelativeToContentRoot value="true" />
+        <option name="niagara.module.root" value="C:\Niagara\dev\project7\e\e-wb" />
+        <option name="niagara.test.roots" value="srcTest=java" />
+        <processorPath useClasspath="false">
+          <entry name="$PROJECT_DIR$/../../Niagara-4.13.0.186/bin/ext/nre.jar" />
+        </processorPath>
+        <module name="myNewModule.e-wb.main" />
+        <module name="myNewModule.e-wb.moduleTest" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="1.8">
+      <module name="myNewModule.aaa-rt.main" target="8" />
+      <module name="myNewModule.aaa-rt.moduleTest" target="8" />
+      <module name="myNewModule.aaa-rt.test" target="8" />
+      <module name="myNewModule.aaa-wb.main" target="8" />
+      <module name="myNewModule.aaa-wb.moduleTest" target="8" />
+      <module name="myNewModule.aaa-wb.test" target="8" />
+      <module name="myNewModule.js1-rt.main" target="8" />
+      <module name="myNewModule.js1-rt.moduleTest" target="8" />
+      <module name="myNewModule.js1-rt.test" target="8" />
+      <module name="myNewModule.js1-ux.main" target="8" />
+      <module name="myNewModule.js1-ux.moduleTest" target="8" />
+      <module name="myNewModule.js1-ux.test" target="8" />
+      <module name="myNewModule.myNewModule-rt.main" target="8" />
+      <module name="myNewModule.myNewModule-rt.moduleTest" target="8" />
+      <module name="myNewModule.myNewModule-rt.test" target="8" />
+      <module name="myNewModule.myNewModule-ux.main" target="8" />
+      <module name="myNewModule.myNewModule-ux.moduleTest" target="8" />
+      <module name="myNewModule.myNewModule-ux.test" target="8" />
+      <module name="myNewModule.sss-rt.main" target="8" />
+      <module name="myNewModule.sss-rt.moduleTest" target="8" />
+      <module name="myNewModule.sss-rt.test" target="8" />
+      <module name="myNewModule.sss-ux.main" target="8" />
+      <module name="myNewModule.sss-ux.moduleTest" target="8" />
+      <module name="myNewModule.sss-ux.test" target="8" />
+      <module name="myNewModule.ttt-rt.main" target="8" />
+      <module name="myNewModule.ttt-rt.moduleTest" target="8" />
+      <module name="myNewModule.ttt-rt.test" target="8" />
+      <module name="myNewModule.ttt-ux.main" target="8" />
+      <module name="myNewModule.ttt-ux.moduleTest" target="8" />
+      <module name="myNewModule.ttt-ux.test" target="8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

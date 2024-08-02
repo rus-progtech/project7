@@ -1,0 +1,4 @@
+<types>
+  <!--com.ptc.d-->
+  <type class="com.ptc.d.BMyFoo" name="MyFoo"/>
+</types>

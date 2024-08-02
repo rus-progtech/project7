@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/a/a-rt/myNewModule.a-rt.main.iml" filepath="$PROJECT_DIR$/.idea/modules/a/a-rt/myNewModule.a-rt.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/a/a-rt/myNewModule.a-rt.moduleTest.iml" filepath="$PROJECT_DIR$/.idea/modules/a/a-rt/myNewModule.a-rt.moduleTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/c/c-rt/myNewModule.c-rt.main.iml" filepath="$PROJECT_DIR$/.idea/modules/c/c-rt/myNewModule.c-rt.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/c/c-rt/myNewModule.c-rt.moduleTest.iml" filepath="$PROJECT_DIR$/.idea/modules/c/c-rt/myNewModule.c-rt.moduleTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/d/d-rt/myNewModule.d-rt.main.iml" filepath="$PROJECT_DIR$/.idea/modules/d/d-rt/myNewModule.d-rt.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/d/d-rt/myNewModule.d-rt.moduleTest.iml" filepath="$PROJECT_DIR$/.idea/modules/d/d-rt/myNewModule.d-rt.moduleTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/e/e-rt/myNewModule.e-rt.main.iml" filepath="$PROJECT_DIR$/.idea/modules/e/e-rt/myNewModule.e-rt.main.iml" />
+    </modules>
+  </component>
+</project>

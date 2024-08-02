@@ -1,0 +1,7 @@
+<types>
+  <!--com.ptc.a-->
+  <type class="com.ptc.a.BMyFoo" name="MyFoo"/>
+  <type class="com.ptc.a.BEnumTest" name="EnumTest"/>
+  <type class="com.ptc.a.BMultiAnnotationFoobar" name="MultiAnnotationFoobar"/>
+  <type class="com.ptc.a.BSingletonTest" name="SingletonTest"/>
+</types>
